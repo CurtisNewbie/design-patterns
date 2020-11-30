@@ -1,4 +1,4 @@
-public class ShortTermLoan extends Loan implements BusinessLoan {
+public class ShortTermLoan extends AbstarctLoan implements BusinessLoan {
 
     public ShortTermLoan() {
         super(0.5);

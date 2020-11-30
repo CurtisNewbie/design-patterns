@@ -1,4 +1,4 @@
-public class NegotiableLoan extends Loan implements HomeLoan {
+public class NegotiableLoan extends AbstarctLoan implements HomeLoan {
 
     public NegotiableLoan() {
         super(0.1);

@@ -1,7 +1,7 @@
 public class BusinessLoanFactory extends AbstractFactory {
 
     @Override
-    Loan getLoan(String loanType) {
+    AbstarctLoan getLoan(String loanType) {
         if (loanType.equalsIgnoreCase("ShortTermLoan"))
             return new ShortTermLoan();
         else if (loanType.equalsIgnoreCase("LongTermLoan"))

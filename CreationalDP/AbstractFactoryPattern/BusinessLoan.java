@@ -1,3 +1,3 @@
-public interface BusinessLoan {
+public interface BusinessLoan extends Loan {
 
 }

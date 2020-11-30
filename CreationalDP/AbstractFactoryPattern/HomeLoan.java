@@ -1,3 +1,3 @@
-public interface HomeLoan {
+public interface HomeLoan extends Loan {
 
 }

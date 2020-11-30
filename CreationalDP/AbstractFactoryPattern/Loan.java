@@ -1,12 +1,3 @@
-public class Loan {
+public interface Loan {
 
-    protected double rate;
-
-    protected Loan(double rate) {
-        this.rate = rate;
-    }
-
-    public double getRate() {
-        return this.rate;
-    }
 }
