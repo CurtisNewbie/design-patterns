@@ -6,3 +6,4 @@ Sources:
 2. https://www.oodesign.com/
 3. https://www.tutorialspoint.com/design_pattern/index.htm
 4. Effective Java
+5. https://howtodoinjava.com/design-patterns/
