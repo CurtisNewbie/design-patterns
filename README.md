@@ -1,12 +1,12 @@
 # design-patterns
-Learning design patterns
+
+Learning design patterns (This repository is "almost" a pure copy of information that I found on Internet or books, and it might have errors as well).
 
 Sources:
 1. https://www.javatpoint.com/design-patterns-in-java
 2. https://www.oodesign.com/
 3. https://www.tutorialspoint.com/design_pattern/index.htm
-4. Effective Java
-5. https://howtodoinjava.com/design-patterns/
+4. https://howtodoinjava.com/design-patterns/
 
 ## Patterns
 
